@@ -1,0 +1,8 @@
+{
+  "name": "skolar notes",
+  "description": "Upload syllabus notes to instantly generate curriculum-aligned explanations, active-recall flashcards, timed quizzes, and rubric-graded practice tests with freemium tiering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
